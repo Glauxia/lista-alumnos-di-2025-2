@@ -1,0 +1,91 @@
+# Dependencias y módulos
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Archivos de compilación
+dist/
+build/
+*.min.js
+*.min.css
+
+# Archivos temporales y cachés
+.cache/
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Archivos de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+.atom/
+
+# Archivos de sistemas operativos
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+config.local.js
+
+# Carpetas específicas del desarrollo
+.next/
+out/
+.nuxt/
+dist/
+build/
+__pycache__/
+*.egg-info/
+
+# Archivos de pruebas y cobertura
+coverage/
+.nyc_output/
+test-results/
+
+# IDEs y editores específicos
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+*.iml
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+[Dd]esktop.ini
+[Ss]ystem Volume Information/
+
+# Linux
+.directory
+
+# Archivos de backup
+*.bak
+*.backup
+*~
+
+# Archivos de logs
+logs/
+*.log
+
+# Carpetas generadas
+/node_modules
+/dist
+/build
+/out
